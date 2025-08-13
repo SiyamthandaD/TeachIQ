@@ -58,7 +58,9 @@ async function generateLessonPlan(topic, gradeLevel) {
   return response.choices[0].message.content;
 }
 
+
 🌟 Roadmap
+
 Basic content generation
 
 Multiple content types
