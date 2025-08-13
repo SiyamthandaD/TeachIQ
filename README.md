@@ -44,16 +44,6 @@ cp .env.example .env.local
 # Run development server
 npm run dev
 
-📂 Project Structure
-text
-src/
-├── app/            # Next.js app router
-├── components/     # React components
-├── context/        # Application context
-├── lib/            # Utility functions
-├── styles/         # Global styles
-public/             # Static assets
-
 🤖 AI Implementation Example
 javascript
 async function generateLessonPlan(topic, gradeLevel) {
