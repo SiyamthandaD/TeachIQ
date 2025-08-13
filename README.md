@@ -6,14 +6,6 @@
 
 EduGenius is an AI-powered platform that generates high-quality educational materials including lesson plans, study guides, worksheets, and assessments. Designed for educators and students to streamline content creation.
 
-```mermaid
-graph TD
-    A[User Input] --> B(AI Processing)
-    B --> C{Content Type}
-    C --> D[Lesson Plans]
-    C --> E[Study Guides]
-    C --> F[Worksheets]
-    C --> G[Assessments]
 ✨ Key Features
 🎯 Content Generation
 Feature	Description
@@ -22,6 +14,7 @@ Feature	Description
 ✍️ Worksheets	Practice problems with answer keys
 🧠 Assessments	Quizzes and tests with varied question types
 🛠️ Technical Features
+
 Component	Technology
 Frontend	Next.js, Tailwind CSS
 AI Engine	OpenAI GPT-4
