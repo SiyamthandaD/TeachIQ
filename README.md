@@ -1,9 +1,5 @@
 # EduGenius - AI-Powered Educational Content Generator
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SiyamthandaD/edugenius)](https://github.com/SiyamthandaD/edugenius/commits/main)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-
 🚀 **Live Demo:** [https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/](https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/)
 
 ## 📚 Overview
