@@ -43,6 +43,7 @@ cp .env.example .env.local
 
 # Run development server
 npm run dev
+
 📂 Project Structure
 text
 src/
@@ -52,6 +53,7 @@ src/
 ├── lib/            # Utility functions
 ├── styles/         # Global styles
 public/             # Static assets
+
 🤖 AI Implementation Example
 javascript
 async function generateLessonPlan(topic, gradeLevel) {
@@ -65,6 +67,7 @@ async function generateLessonPlan(topic, gradeLevel) {
   
   return response.choices[0].message.content;
 }
+
 🌟 Roadmap
 Basic content generation
 
