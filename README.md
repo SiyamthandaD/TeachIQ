@@ -6,46 +6,50 @@
 
 EduGenius is an AI-powered platform that generates high-quality educational materials including lesson plans, study guides, worksheets, and assessments. Designed for educators and students to streamline content creation.
 
-✨ Key Features
-🎯 Content Generation
-Feature	Description
-📝 Lesson Plans	Complete with objectives, activities and assessments
-📖 Study Guides	Topic summaries with key concepts
-✍️ Worksheets	Practice problems with answer keys
-🧠 Assessments	Quizzes and tests with varied question types
-🛠️ Technical Features
+## ✨ Key Features
+* 🎯 Content Generation.
 
-Component	Technology
-Frontend	Next.js, Tailwind CSS
-AI Engine	OpenAI GPT-4
-Deployment	Vercel
-State Management	React Context
-🚀 Getting Started
-Prerequisites
-Node.js (v18+)
+## Feature	Description
+* 📝 Lesson Plans	Complete with objectives, activities and assessments.
+* 📖 Study Guides	Topic summaries with key concepts.
+* ✍️ Worksheets	Practice problems with answer keys.
+* 🧠 Assessments	Quizzes and tests with varied question types.
+* 🛠️ Technical Features.
 
-npm or yarn
+## Component	Technology
+* Frontend	Next.js, Tailwind CSS.
+* AI Engine	OpenAI GPT-4.
+* Deployment	Vercel.
+* State Management	React Context.
 
-OpenAI API key
+## 🚀 Getting Started
+### Prerequisites
+* Node.js (v18+).
+* npm or yarn.
+* OpenAI API key.
 
-Installation
-bash
+## Installation
+* bash
+
 # Clone repository
-git clone https://github.com/SiyamthandaD/edugenius.git
-cd edugenius
+  - git clone https://github.com/SiyamthandaD/edugenius.git
+  - cd edugenius
 
 # Install dependencies
-npm install
+  - npm install
 
 # Set up environment variables
-cp .env.example .env.local
+  - cp .env.example .env.local
+
 # Add your OpenAI API key in .env.local
 
 # Run development server
-npm run dev
+  - npm run dev
 
-🤖 AI Implementation Example
+## 🤖 AI Implementation Example
+
 javascript
+
 async function generateLessonPlan(topic, gradeLevel) {
   const prompt = `Generate a detailed lesson plan about ${topic} for ${gradeLevel} grade students.
   Include: objectives, materials, activities, and assessment. Format as Markdown.`;
@@ -58,20 +62,14 @@ async function generateLessonPlan(topic, gradeLevel) {
   return response.choices[0].message.content;
 }
 
+## 🌟 Roadmap
+* Basic content generation.
+* Multiple content types.
+* PDF export functionality.
+* Template customization.
+* User accounts system.
 
-🌟 Roadmap
-
-Basic content generation
-
-Multiple content types
-
-PDF export functionality
-
-Template customization
-
-User accounts system
-
-📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 <div align="center"> <p>Built with ❤️ by Siyamthanda Dlakavu</p>
