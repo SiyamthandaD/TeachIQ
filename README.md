@@ -74,4 +74,4 @@ User accounts system
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<div align="center"> <p>Built with ❤️ by Siyamthanda Dlakavu</p> <p> <a
+<div align="center"> <p>Built with ❤️ by Siyamthanda Dlakavu</p>
