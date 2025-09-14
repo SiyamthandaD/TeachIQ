@@ -1,9 +1,9 @@
 # EduGenius - AI-Powered Educational Content Generator
+EduGenius is an AI-powered platform that generates high-quality educational materials including lesson plans, study guides, worksheets, and assessments. Designed for educators and students to streamline content creation.
 
-🚀 **Live Demo:** [https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/](https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/)
+🚀 **Live Demo:** https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/
 
 ## 📚 Overview
-
 EduGenius is an AI-powered platform that generates high-quality educational materials including lesson plans, study guides, worksheets, and assessments. Designed for educators and students to streamline content creation.
 
 ## ✨ Key Features
@@ -29,28 +29,28 @@ EduGenius is an AI-powered platform that generates high-quality educational mate
 * OpenAI API key.
 
 ## Installation
-* bash
-
-# Clone repository
+* Clone repository
+  ```bash
   - git clone https://github.com/SiyamthandaD/edugenius.git
   - cd edugenius
 
-# Install dependencies
+* Install dependencies
+  ```bash
   - npm install
 
-# Set up environment variables
+* Set up environment variables
+  ```bash
   - cp .env.example .env.local
 
-# Add your OpenAI API key in .env.local
+* Add your OpenAI API key in .env.local
 
-# Run development server
+* Run development server
+  ```bash
   - npm run dev
 
-## 🤖 AI Implementation Example
-
-javascript
-
-async function generateLessonPlan(topic, gradeLevel) {
+* 🤖 AI Implementation Example
+  ```javascript
+  async function generateLessonPlan(topic, gradeLevel) {
   const prompt = `Generate a detailed lesson plan about ${topic} for ${gradeLevel} grade students.
   Include: objectives, materials, activities, and assessment. Format as Markdown.`;
   
@@ -60,7 +60,7 @@ async function generateLessonPlan(topic, gradeLevel) {
   });
   
   return response.choices[0].message.content;
-}
+  }
 
 ## 🌟 Roadmap
 * Basic content generation.
