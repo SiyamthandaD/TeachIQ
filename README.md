@@ -1,6 +1,9 @@
 # EduGenius - AI-Powered Educational Content Generator
 EduGenius is an innovative AI-powered platform designed to transform educational content creation. By leveraging advanced AI technology, we empower educators and students to generate high-quality, customized learning materials quickly and efficiently. Say goodbye to hours of manual content creation and hello to intelligent, instant educational resources.
 
+## 🖥️ Home Page Preview
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/62894bec-d69c-487e-b08d-00b0c0951e07" />
+
 🚀 **Live Demo:** https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/
 
 ## 📚 Overview
