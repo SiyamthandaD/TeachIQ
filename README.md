@@ -4,7 +4,8 @@ EduGenius is an innovative AI-powered platform designed to transform educational
 ## 🖥️ Home Page Preview
 <img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/62894bec-d69c-487e-b08d-00b0c0951e07" />
 
-### 🚀 **Live Demo:** https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/
+## 🚀 **Live Demo:**
+https://edugenius-f21g13qbe-siyamthanda-dlakavus-projects.vercel.app/
 
 ## 📚 Overview
 EduGenius is an AI-powered platform that generates high-quality educational materials including lesson plans, study guides, worksheets, and assessments. Designed for educators and students to streamline content creation.
