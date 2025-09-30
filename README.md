@@ -171,20 +171,20 @@ Navigate to *http://localhost:3000* to access EduGenius
   - [Variable]: OPENAI_API_KEY - [Description]: Your OpenAI API key - [Required]: Yes.
   - [Variable]: NEXT_PUBLIC_APP_URL - [Description]: Application base URL - [Required]: No.
 
-### 🌟 Roadmap
-## 🎯 Completed Features
+## 🌟 Roadmap
+### 🎯 Completed Features
   - ✅ Basic content generation for multiple formats.
   - ✅ PDF export functionality.
   - ✅ User-friendly interface with Tailwind CSS.
   - ✅ OpenAI GPT-4 integration.
   - ✅ Responsive design for all devices.
 
-## 🚧 In Development
+### 🚧 In Development
   - 🔄 Template customization system.
   - 🔄 User accounts and content saving.
   - 🔄 Collaborative editing features.
 
-## 📅 Planned Features
+### 📅 Planned Features
   - 🗓️ Advanced content customization options.
   - 🗓️ Integration with learning management systems.
   - 🗓️ Multi-language support.
